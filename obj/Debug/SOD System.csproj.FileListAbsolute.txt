@@ -1,0 +1,14 @@
+K:\GitProjects\SOD System\SOD System\SOD System\bin\Debug\SOD System.exe.config
+K:\GitProjects\SOD System\SOD System\SOD System\bin\Debug\SOD System.exe
+K:\GitProjects\SOD System\SOD System\SOD System\bin\Debug\SOD System.pdb
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\SOD System.csprojResolveAssemblyReference.cache
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\MainWindow.g.cs
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\App.g.cs
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\SOD System_MarkupCompile.cache
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\SOD System_MarkupCompile.lref
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\MainWindow.baml
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\SOD System.g.resources
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\SOD_System.Properties.Resources.resources
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\SOD System.csproj.GenerateResource.Cache
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\SOD System.exe
+K:\GitProjects\SOD System\SOD System\SOD System\obj\Debug\SOD System.pdb
